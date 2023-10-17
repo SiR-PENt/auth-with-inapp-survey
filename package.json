@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@formbricks/js": "^1.1.2",
     "@supabase/auth-helpers-nextjs": "latest",
     "@supabase/supabase-js": "latest",
     "autoprefixer": "10.4.15",
